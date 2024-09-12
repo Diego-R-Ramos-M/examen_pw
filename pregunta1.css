@@ -9,6 +9,7 @@
     border-style: dashed;
     border-color: black;
     padding: 3%;
+    margin-top: 2%;
     box-sizing: border-box;
 }
 
@@ -19,4 +20,9 @@ img {
 label {
     font-size: 2em;
     margin-top: 2%;
+}
+
+body {
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
