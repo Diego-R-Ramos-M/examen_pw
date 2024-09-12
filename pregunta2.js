@@ -1,5 +1,5 @@
 function main() {
-    const altura = 1.70;
+    const altura = 1.71;
     const peso = 70;
 
     document.getElementById("tb_altura").setAttribute("value", altura);
