@@ -1,8 +1,22 @@
 .text_box {
     background-color: cornflowerblue;
+    width: 95%;
+    height: 10%;
+    font-size: 2em;
 }
 
 .celda {
     border-style: dashed;
     border-color: black;
+    padding: 3%;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+label {
+    font-size: 2em;
+    margin-top: 2%;
 }
